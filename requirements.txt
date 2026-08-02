@@ -1,0 +1,13 @@
+pandas
+python-dateutil
+argparse
+
+# generate_pdf_invoices
+reportlab
+
+# pdf_to_json
+pypdf 
+pdfplumber
+
+# nested_json_to_excel
+openpyxl

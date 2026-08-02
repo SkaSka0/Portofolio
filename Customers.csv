@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,age,email,phone_number,address,city,state,postal_code,employment_status,credit_score
+CUST-0001,Mair,Snar,46,msnar0@clickbank.net,770-928-2687,3 New Castle Junction,Marietta,Georgia,30061,Employed,556
+CUST-0002,Haley,Sloey,36,hsloey1@usatoday.com,704-759-5467,1 Dennis Circle,Charlotte,North Carolina,28205,Employed,512
+CUST-0003,Eleni,Zannuto,48,ezannuto2@ustream.tv,763-316-1731,7 Melody Junction,Minneapolis,Minnesota,55448,Employed,593
+CUST-0004,Brynna,Matteris,60,bmatteris3@tripod.com,305-826-2901,0116 School Terrace,Miami,Florida,33142,Self-employed,574
+CUST-0005,Karel,Torrans,54,ktorrans4@themeforest.net,253-249-9245,196 Lawn Place,Tacoma,Washington,98417,Unemployed,736
+CUST-0006,Rianon,Ousbie,48,rousbie5@weather.com,609-559-9688,27 Eggendart Place,Trenton,New Jersey,8608,Employed,350
+CUST-0007,Victor,Czadla,31,vczadla6@cnbc.com,208-382-9830,06922 Donald Crossing,Idaho Falls,Idaho,83405,Employed,440
+CUST-0008,Aurore,Chinnick,48,achinnick7@washington.edu,626-554-1926,19508 Atwood Circle,Alhambra,California,91841,Employed,744
+CUST-0009,Emogene,Waddell,40,ewaddell8@e-recht24.de,970-352-0087,07227 Caliangt Center,Grand Junction,Colorado,81505,Employed,780
+CUST-0010,Dorothea,Jeanet,55,djeanet9@friendfeed.com,801-558-4451,0 Bay Trail,Salt Lake City,Utah,84130,Self-employed,816
+CUST-0011,Corrinne,Mila,59,cmilaa@issuu.com,559-500-5583,47 Delladonna Lane,Fresno,California,93773,Employed,334
+CUST-0012,Ottilie,Shellum,58,oshellumb@ehow.com,858-946-0754,5 Butterfield Pass,Orange,California,92668,Employed,318
+CUST-0013,Alleen,Vassano,24,avassanoc@canalblog.com,205-669-5961,91072 Merrick Way,Birmingham,Alabama,35295,Employed,708
+CUST-0014,North,Thorley,43,nthorleyd@bloglovin.com,615-753-2873,04246 Heffernan Place,Nashville,Tennessee,37240,Self-employed,467
+CUST-0015,Piper,Womack,57,pwomacke@pcworld.com,202-541-7569,070 Kings Center,Washington,District of Columbia,20231,Unemployed,744
+CUST-0016,Melony,Pentland,39,mpentlandf@twitter.com,915-395-2786,0 Chive Point,El Paso,Texas,79968,Employed,407
+CUST-0017,Tansy,Tedahl,20,ttedahlg@pagesperso-orange.fr,864-254-9048,77 Beilfuss Lane,Greenville,South Carolina,29610,Self-employed,351
+CUST-0018,Jamaal,Brambell,19,jbrambellh@51.la,719-782-6890,3 Buena Vista Avenue,Colorado Springs,Colorado,80951,Unemployed,484
+CUST-0019,Brig,Yushkin,37,byushkini@indiegogo.com,925-919-5504,1358 Dapin Parkway,Concord,California,94522,Unemployed,380
+CUST-0020,Maximilianus,Wallbank,55,mwallbankj@wired.com,208-130-2193,2 Helena Street,Idaho Falls,Idaho,83405,Employed,742
+CUST-0021,Gottfried,Henden,22,ghendenk@mac.com,305-384-5363,65435 Lakeland Trail,Naples,Florida,33961,Employed,588
+CUST-0022,Rufus,Culverhouse,58,rculverhousel@sun.com,406-533-5765,56 Mesta Center,Missoula,Montana,59806,Self-employed,363
+CUST-0023,Odella,Eccleshare,60,oecclesharem@geocities.jp,314-190-3422,220 Dahle Trail,Saint Louis,Missouri,63158,Employed,835
+CUST-0024,Clary,Winspar,22,cwinsparn@mail.ru,615-878-1753,2 Manufacturers Way,Nashville,Tennessee,37228,Employed,517
+CUST-0025,Karoly,Jebb,18,kjebbo@buzzfeed.com,858-483-3650,49 Ohio Terrace,San Diego,California,92145,Self-employed,711
+CUST-0026,Claudio,Halifax,42,chalifaxp@bloomberg.com,415-874-7405,28635 Moose Trail,San Francisco,California,94142,Self-employed,767
+CUST-0027,Lyn,Checkley,43,lcheckleyq@weebly.com,312-423-7448,77 Scott Circle,Chicago,Illinois,60691,Unemployed,344
+CUST-0028,Rebe,Corwin,46,rcorwinr@ezinearticles.com,719-556-8782,2 Sachtjen Alley,Pueblo,Colorado,81005,Employed,423
+CUST-0029,Mina,Madden,31,mmaddens@intel.com,212-134-9079,0 7th Avenue,New York City,New York,10125,Employed,758
+CUST-0030,Noby,Dolley,40,ndolleyt@twitpic.com,804-362-1452,66 Cottonwood Junction,Richmond,Virginia,23289,Self-employed,480
+CUST-0031,Kassia,Rowlatt,53,krowlattu@trellian.com,302-400-2593,34 Nobel Junction,Wilmington,Delaware,19810,Self-employed,670
+CUST-0032,Rebbecca,Reide,59,rreidev@mail.ru,339-125-9834,8365 5th Lane,Woburn,Massachusetts,1813,Self-employed,539
+CUST-0033,Eran,Ickeringill,36,eickeringillw@who.int,216-771-5569,59481 Nelson Crossing,Cleveland,Ohio,44191,Unemployed,650
+CUST-0034,Deloria,Calvard,39,dcalvardx@newyorker.com,602-140-0376,77978 Summerview Crossing,Peoria,Arizona,85383,Unemployed,798
+CUST-0035,Aksel,Traice,39,atraicey@skype.com,267-994-9600,0 Delaware Alley,Levittown,Pennsylvania,19058,Self-employed,539
+CUST-0036,Deane,Dallan,19,ddallanz@issuu.com,480-956-9144,53719 Bowman Way,Phoenix,Arizona,85045,Unemployed,457
+CUST-0037,Hedvige,Littrik,43,hlittrik10@unblog.fr,510-936-7003,11 Miller Parkway,Berkeley,California,94705,Employed,703
+CUST-0038,Bab,Steuhlmeyer,38,bsteuhlmeyer11@house.gov,775-768-5587,71300 Basil Street,Carson City,Nevada,89706,Unemployed,755
+CUST-0039,Rodrigo,McTavy,52,rmctavy12@miitbeian.gov.cn,651-117-5696,9340 Mallory Road,Minneapolis,Minnesota,55407,Unemployed,789
+CUST-0040,Ardys,Callis,56,acallis13@bloomberg.com,309-971-4689,15 Stone Corner Junction,Carol Stream,Illinois,60158,Employed,313
+CUST-0041,Lucian,Van Son,24,lvanson14@clickbank.net,618-223-5683,3 Corscot Park,East Saint Louis,Illinois,62205,Self-employed,707
+CUST-0042,Meggi,Fehner,47,mfehner15@reverbnation.com,913-896-8303,270 Eagle Crest Parkway,Shawnee Mission,Kansas,66276,Self-employed,665
+CUST-0043,Elora,de Castelain,26,edecastelain16@comcast.net,303-141-6458,3748 Mcguire Drive,Littleton,Colorado,80161,Unemployed,638
+CUST-0044,Stanley,Dawltrey,48,sdawltrey17@gravatar.com,559-537-9420,0 Packers Point,Fresno,California,93709,Employed,742
+CUST-0045,Patsy,Beavers,48,pbeavers18@blog.com,941-808-4932,0 Weeping Birch Crossing,North Port,Florida,34290,Unemployed,505
+CUST-0046,Avram,Plowell,48,aplowell19@myspace.com,325-519-3640,3827 Granby Terrace,Abilene,Texas,79699,Unemployed,581
+CUST-0047,Rory,Bartkiewicz,46,rbartkiewicz1a@friendfeed.com,804-841-8063,241 Anzinger Terrace,Richmond,Virginia,23203,Employed,598
+CUST-0048,Clemens,Ashbridge,43,cashbridge1b@comsenz.com,704-903-8006,686 Rieder Court,Charlotte,North Carolina,28235,Unemployed,437
+CUST-0049,Rosie,Sives,60,rsives1c@ovh.net,559-329-8628,13 Ohio Place,Fresno,California,93778,Employed,376
+CUST-0050,Lucila,Scourge,24,lscourge1d@illinois.edu,907-425-7954,20604 Veith Road,Anchorage,Alaska,99517,Employed,464
+CUST-0051,Rainer,Brosoli,31,rbrosoli1e@redcross.org,707-563-7449,2162 Browning Plaza,Santa Rosa,California,95405,Employed,697
+CUST-0052,Rockie,Odams,35,rodams1f@bing.com,608-459-6568,87711 Crowley Terrace,Madison,Wisconsin,53716,Employed,382
+CUST-0053,Jenn,Blurton,26,jblurton1g@irs.gov,530-729-5333,85543 Union Junction,Sacramento,California,95818,Employed,609
+CUST-0054,Weston,Gonzalo,27,wgonzalo1h@jimdo.com,915-232-9133,36692 Maryland Point,El Paso,Texas,88514,Employed,351
+CUST-0055,Janel,Ambrodi,49,jambrodi1i@deliciousdays.com,704-274-4705,0758 Porter Drive,Charlotte,North Carolina,28256,Self-employed,539
+CUST-0056,Husein,Ghione,41,hghione1j@smh.com.au,334-581-4645,4 Hoepker Point,Montgomery,Alabama,36104,Employed,630
+CUST-0057,Jada,Melrose,44,jmelrose1k@qq.com,603-784-4050,31703 Thackeray Hill,Portsmouth,New Hampshire,3804,Self-employed,475
+CUST-0058,Sisely,Colton,58,scolton1l@craigslist.org,339-578-8745,9162 Larry Hill,Woburn,Massachusetts,1813,Unemployed,565
+CUST-0059,Tulley,Ainsworth,52,tainsworth1m@aol.com,303-212-8180,05 Brentwood Junction,Boulder,Colorado,80328,Employed,651
+CUST-0060,Auguste,Gabbott,32,agabbott1n@wikipedia.org,267-848-8139,87247 Melvin Lane,Levittown,Pennsylvania,19058,Employed,398
+CUST-0061,Ashli,Strauss,44,astrauss1o@4shared.com,832-559-5383,13102 Becker Street,Houston,Texas,77070,Employed,689
+CUST-0062,Curtis,Whittet,56,cwhittet1p@ucoz.com,210-346-8098,12187 Arrowood Circle,San Antonio,Texas,78245,Employed,565
+CUST-0063,Logan,Fardy,29,lfardy1q@chron.com,215-854-8912,8526 Arapahoe Alley,Philadelphia,Pennsylvania,19093,Employed,708
+CUST-0064,Correy,Berard,60,cberard1r@wikispaces.com,510-502-8309,6334 Pond Pass,Oakland,California,94660,Employed,695
+CUST-0065,Seumas,Schulkins,24,sschulkins1s@independent.co.uk,317-678-0567,06 Westerfield Court,Indianapolis,Indiana,46278,Employed,667
+CUST-0066,Savina,Barthel,20,sbarthel1t@fastcompany.com,213-477-2900,7968 Dwight Hill,Los Angeles,California,90025,Self-employed,445
+CUST-0067,Jany,Kures,51,jkures1u@technorati.com,202-322-2876,6 Laurel Junction,Washington,District of Columbia,20078,Employed,769
+CUST-0068,Merv,Ubsdell,42,mubsdell1v@plala.or.jp,804-998-3002,68 Montana Lane,Richmond,Virginia,23228,Employed,607
+CUST-0069,Jemie,Vowden,60,jvowden1w@networksolutions.com,410-134-1014,67 Paget Junction,Baltimore,Maryland,21275,Self-employed,552
+CUST-0070,Rolfe,Boice,42,rboice1x@yale.edu,309-172-2111,194 Randy Park,Bloomington,Illinois,61709,Employed,388
+CUST-0071,Claudianus,Westmorland,44,cwestmorland1y@yelp.com,303-656-1989,421 Glendale Drive,Denver,Colorado,80223,Employed,720
+CUST-0072,Nico,Poulter,18,npoulter1z@theguardian.com,603-195-9807,90 Clemons Pass,Portsmouth,New Hampshire,3804,Self-employed,610
+CUST-0073,Ethelind,de Mendoza,23,edemendoza20@who.int,316-640-9317,1 Dayton Crossing,Wichita,Kansas,67236,Self-employed,618
+CUST-0074,John,Skrines,21,jskrines21@multiply.com,734-285-6748,03505 Sullivan Lane,Detroit,Michigan,48242,Self-employed,539
+CUST-0075,Zachary,Hedaux,53,zhedaux22@ucsd.edu,617-928-0302,26419 Prairie Rose Alley,Boston,Massachusetts,2216,Self-employed,411
+CUST-0076,Fiorenze,Sutherby,31,fsutherby23@bbc.co.uk,608-970-6589,15 Eagan Terrace,Madison,Wisconsin,53726,Unemployed,580
+CUST-0077,Krishnah,Bernot,30,kbernot24@vk.com,949-459-6456,40 Gulseth Crossing,Los Angeles,California,90010,Self-employed,473
+CUST-0078,Del,Holley,21,dholley25@latimes.com,561-725-5333,35117 South Center,West Palm Beach,Florida,33421,Self-employed,716
+CUST-0079,Hewitt,Ponten,50,hponten26@furl.net,714-316-9574,83696 Ohio Circle,Garden Grove,California,92844,Employed,492
+CUST-0080,Aldous,O Mullen,37,aomullen27@squidoo.com,917-105-9387,5 Butterfield Circle,Jamaica,New York,11436,Unemployed,488
+CUST-0081,Shellie,Gilbank,44,sgilbank28@addthis.com,682-819-4829,173 Myrtle Crossing,Fort Worth,Texas,76162,Self-employed,310
+CUST-0082,Anett,Badgers,39,abadgers29@ca.gov,540-950-3078,329 Thackeray Terrace,Roanoke,Virginia,24020,Employed,465
+CUST-0083,Anallese,Muehler,42,amuehler2a@ca.gov,520-206-2516,4012 Golf Course Street,Prescott,Arizona,86305,Employed,427
+CUST-0084,Crystie,Greenig,51,cgreenig2b@cdbaby.com,718-919-1715,6 Montana Hill,New York City,New York,10110,Unemployed,645
+CUST-0085,Griffin,Lukasen,23,glukasen2c@zdnet.com,318-928-7521,6585 Grayhawk Junction,Monroe,Louisiana,71213,Employed,632
+CUST-0086,Andree,Mechi,27,amechi2d@intel.com,602-776-9572,0 Dexter Hill,Phoenix,Arizona,85062,Employed,837
+CUST-0087,Trip,Swait,24,tswait2e@abc.net.au,561-207-8301,9741 Mandrake Hill,West Palm Beach,Florida,33405,Employed,653
+CUST-0088,Eula,Swarbrick,35,eswarbrick2f@mozilla.org,651-951-4631,8 Glacier Hill Junction,Saint Paul,Minnesota,55123,Self-employed,747
+CUST-0089,Viv,Phythien,60,vphythien2g@studiopress.com,402-499-2979,10296 6th Parkway,Omaha,Nebraska,68179,Self-employed,319
+CUST-0090,Gerty,Bothie,18,gbothie2h@oracle.com,413-944-1863,62 Oak Valley Trail,Springfield,Massachusetts,1152,Self-employed,375
+CUST-0091,Inga,Peirce,49,ipeirce2i@google.es,214-374-7922,725 Florence Crossing,Dallas,Texas,75310,Employed,818
+CUST-0092,Brigg,Rucklesse,39,brucklesse2j@mit.edu,913-184-5271,5487 Moland Court,Shawnee Mission,Kansas,66215,Employed,380
+CUST-0093,Aloise,Trowell,58,atrowell2k@wsj.com,314-165-8437,0100 David Court,Saint Louis,Missouri,63158,Employed,306
+CUST-0094,Honor,Rudolph,22,hrudolph2l@networkadvertising.org,312-536-8517,31 Nevada Parkway,Chicago,Illinois,60657,Employed,537
+CUST-0095,Marwin,Growy,18,mgrowy2m@squarespace.com,626-261-0232,392 Leroy Alley,Van Nuys,California,91411,Self-employed,466
+CUST-0096,Ximenes,Mebes,32,xmebes2n@foxnews.com,973-562-0659,3257 Everett Way,Newark,New Jersey,7104,Self-employed,848
+CUST-0097,Florri,Penhale,41,fpenhale2o@soundcloud.com,205-219-5749,5 Green Road,Birmingham,Alabama,35242,Employed,357
+CUST-0098,Libbi,Vittore,42,lvittore2p@hostgator.com,616-763-3015,677 Summit Parkway,Grand Rapids,Michigan,49560,Unemployed,816
+CUST-0099,Cassi,Barrable,29,cbarrable2q@jiathis.com,312-381-7403,4589 Hauk Place,Chicago,Illinois,60686,Employed,749
+CUST-0100,Say,Toyer,46,stoyer2r@unc.edu,615-289-6380,8699 Morningstar Pass,Nashville,Tennessee,37228,Self-employed,521
