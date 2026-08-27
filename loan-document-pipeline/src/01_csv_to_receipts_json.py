@@ -1,5 +1,5 @@
 """
-build_receipts_json.py
+csv_to_receipts_json.py
 
 Gabungkan Customers.csv + Loans.csv + Repayment_Schedule.csv
 menjadi selected_receipts.json, siap dipakai generate_pdf_invoices.py
