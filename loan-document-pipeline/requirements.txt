@@ -2,12 +2,12 @@ pandas
 python-dateutil
 argparse
 
-# generate_pdf_invoices
+# 02_receipts_json_to_pdf.py
 reportlab
 
-# pdf_to_json
+# 03_pdf_to_raw_json.py
 pypdf 
 pdfplumber
 
-# nested_json_to_excel
+# 04_raw_json_to_structured_json.py
 openpyxl
