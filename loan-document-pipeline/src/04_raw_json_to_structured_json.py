@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-receipt_parser.py
+raw_json_to_structured_json.py
 
-Parsing hasil JSON dari pdf_to_json.py (yang dijalankan dengan --with-words,
+Parsing hasil JSON dari pdf_to_raw_json.py (yang dijalankan dengan --with-words,
 ini sekarang default) menjadi record terstruktur.
 
 Kenapa versi ini beda dari versi sebelumnya:
@@ -27,12 +27,12 @@ untuk data nested).
 Dependencies: tidak butuh library tambahan (hanya stdlib).
 
 Cara pakai:
-    # WAJIB generate JSON dengan koordinat kata (ini sudah default di pdf_to_json.py)
-    python pdf_to_json.py document.pdf -o document.json
+    # WAJIB generate JSON dengan koordinat kata (ini sudah default di 03_pdf_to_raw_json.py)
+    python pdf_to_raw_json.py document.pdf -o document.json
 
-    python receipt_parser.py -i document.json -o output.csv
-    python receipt_parser.py -i document.json -o output.json
-    python receipt_parser.py -i document.json -o output.csv --json-output output.json
+    python raw_json_to_structured_json.py -i document.json -o output.csv
+    python raw_json_to_structured_json.py -i document.json -o output.json
+    python raw_json_to_structured_json.py -i document.json -o output.csv --json-output output.json
 """
 
 import argparse
