@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-pdf_to_json.py
+pdf_to_raw_json.py
 
 Convert satu atau banyak file PDF menjadi JSON dengan struktur:
 {
@@ -14,19 +14,19 @@ Dependencies:
 
 Cara pakai:
     # Satu file, hasil dicetak ke stdout
-    python pdf_to_json.py document.pdf
+    python pdf_to_raw_json.py document.pdf
 
     # Satu file, simpan ke file JSON tertentu
-    python pdf_to_json.py document.pdf -o document.json
+    python pdf_to_raw_json.py document.pdf -o document.json
 
     # Banyak file / satu folder, hasil disimpan ke folder output
-    python pdf_to_json.py folder_pdf/ -o folder_json/
+    python pdf_to_raw_json.py folder_pdf/ -o folder_json/
 
     # Tanpa ekstraksi teks per halaman (lebih cepat, cuma metadata)
-    python pdf_to_json.py document.pdf --no-text
+    python pdf_to_raw_json.py document.pdf --no-text
 
     # Sertakan koordinat kata (word bounding boxes) - lebih berat
-    python pdf_to_json.py document.pdf --with-words
+    python pdf_to_raw_json.py document.pdf --with-words
 """
 
 import argparse
@@ -164,7 +164,7 @@ def build_page_data(page_number, plumber_page, pypdf_page, extract_text, with_wo
     return page_data
 
 
-def pdf_to_json(pdf_path: Path, extract_text=True, with_words=False):
+def pdf_to_raw_json(pdf_path: Path, extract_text=True, with_words=False):
     reader = PdfReader(str(pdf_path))
     is_encrypted = reader.is_encrypted
 
@@ -244,7 +244,7 @@ def main():
         out_dir.mkdir(parents=True, exist_ok=True)
         for pdf_file in pdf_files:
             print(f"Memproses: {pdf_file.name} ...")
-            data = pdf_to_json(pdf_file, extract_text=extract_text, with_words=args.with_words)
+            data = pdf_to_raw_json(pdf_file, extract_text=extract_text, with_words=args.with_words)
             out_file = out_dir / (pdf_file.stem + ".json")
             with open(out_file, "w", encoding="utf-8") as f:
                 json.dump(data, f, indent=args.indent, ensure_ascii=False)
@@ -254,7 +254,7 @@ def main():
 
     # Mode satu file
     pdf_file = pdf_files[0]
-    data = pdf_to_json(pdf_file, extract_text=extract_text, with_words=args.with_words)
+    data = pdf_to_raw_json(pdf_file, extract_text=extract_text, with_words=args.with_words)
     output_json = json.dumps(data, indent=args.indent, ensure_ascii=False)
 
     if args.output:
