@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-nested_json_to_excel.py
+structured_json_to_excel.py
 
 Convert JSON nested hasil receipt_parser.py (list of customer/loan, tiap
 customer punya field customer/loan di level luar + array "installments")
@@ -18,7 +18,7 @@ Tidak ada kalkulasi/formula di sini (murni konversi struktur data), jadi tidak
 perlu proses recalc.
 
 Cara pakai:
-    python nested_json_to_excel.py -i nested_output.json -o output.xlsx
+    python structured_json_to_excel.py -i nested_output.json -o output.xlsx
 """
 
 import argparse
