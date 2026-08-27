@@ -1,5 +1,5 @@
 """
-generate_pdf_invoices.py
+receipts_json_to_pdf.py
 
 Merender record di selected_receipts.json menjadi PDF "Payment Receipt".
 
@@ -9,8 +9,8 @@ Dua mode:
                (tiap invoice = 1 halaman dalam file yang sama)
 
 Cara pakai:
-    python generate_pdf_invoices.py selected_receipts.json output_pdfs/ single
-    python generate_pdf_invoices.py selected_receipts.json output_pdfs/ customer
+    python receipts_json_to_pdf.py selected_receipts.json output_pdfs/ single
+    python receipts_json_to_pdf.py selected_receipts.json output_pdfs/ customer
 """
 
 import argparse
