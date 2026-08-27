@@ -99,8 +99,3 @@ Each script also has a `-h/--help` flag documenting its own options (e.g. `--fla
 - **pypdf** + **pdfplumber** — PDF metadata, text, and word-coordinate extraction
 - **openpyxl** — styled multi-sheet Excel export
 - Pure-stdlib **regex-based parsing** for the PDF → structured data step (no ML/OCR dependency)
-
-## Roadmap
-
-- [ ] Finalize `.gitignore` for generated PDFs/output
-- [ ] Add more portfolio projects to this monorepo
